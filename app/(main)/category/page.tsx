@@ -10,7 +10,7 @@ const Add_Category_Product = () => {
     return (
         <div className="grid">
             <div className="col-12 md:col-7">
-                <CreateCategory />
+                {/* <CreateCategory /> */}
                 <NewCreateCategory />
                 {/*<CreateSubCategory/>*/}
             </div>

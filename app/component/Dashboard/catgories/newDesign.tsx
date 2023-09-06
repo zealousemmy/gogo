@@ -23,6 +23,7 @@ interface Country {
 export default function NewCreateCategory() {
     const [selectedCity, setSelectedCity] = useState<City | null>(null);
     const [value, setValue] = useState<string>('');
+    const [show, setShow] = useState<boolean>(false);
     const countries: Country[] = [
         {
             name: 'Australia',
@@ -108,22 +109,58 @@ export default function NewCreateCategory() {
             </div>
         );
     };
+
+    const countryFormTemplate = (option: any) => {
+        return (
+            <div className="flex align-items-center gap-2">
+                <input type="text" />
+                {/* {option.states && <img alt={option.name} src="https://primefaces.org/cdn/primereact/images/flag/flag_placeholder.png" className={`flag flag-${option.code.toLowerCase()}`} style={{ width: '18px' }} />} */}
+                {/* {option.cities && <i className="pi pi-compass" />} */}
+                {/* {option.cname && <i className="pi pi-map-marker" />} */}
+                {/* <span>{option.cname || option.name}</span> */}
+            </div>
+        );
+    };
+
+    const handleShowAdd = (e: any) => {
+        e.preventDefault();
+        setShow(true);
+    };
     return (
         <div className="card flex justify-content-center bg-dark">
             <form>
                 <div>
-                    <CascadeSelect
-                        value={selectedCity}
-                        onChange={(e: CascadeSelectChangeEvent) => setSelectedCity(e.value)}
-                        options={countries}
-                        optionLabel="cname"
-                        optionGroupLabel="name"
-                        optionGroupChildren={['states', 'cities']}
-                        className="w-full md:w-14rem"
-                        breakpoint="767px"
-                        placeholder="Select a City"
-                        itemTemplate={countryOptionTemplate}
-                    />
+                    <div className="mb-3 flex justify-content-end" style={{}}>
+                        <button onClick={handleShowAdd}>+</button>
+                    </div>
+                    {show === true && (
+                        <CascadeSelect
+                            value={selectedCity}
+                            onChange={(e: CascadeSelectChangeEvent) => setSelectedCity(e.value)}
+                            options={countries}
+                            optionLabel="cname"
+                            optionGroupLabel="name"
+                            optionGroupChildren={['states', 'cities']}
+                            className="w-full md:w-14rem"
+                            breakpoint="767px"
+                            placeholder="Add category"
+                            itemTemplate={countryFormTemplate}
+                        />
+                    )}
+                    {show === false && (
+                        <CascadeSelect
+                            value={selectedCity}
+                            onChange={(e: CascadeSelectChangeEvent) => setSelectedCity(e.value)}
+                            options={countries}
+                            optionLabel="cname"
+                            optionGroupLabel="name"
+                            optionGroupChildren={['states', 'cities']}
+                            className="w-full md:w-14rem"
+                            breakpoint="767px"
+                            placeholder="Select a City"
+                            itemTemplate={countryOptionTemplate}
+                        />
+                    )}
                 </div>
                 <span className="p-float-label mt-3">
                     <InputText id="username" value={value} onChange={(e) => setValue(e.target.value)} />
