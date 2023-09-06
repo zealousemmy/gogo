@@ -1,0 +1,595 @@
+{
+  "categories": [
+    {
+      "name": "Beauty",
+      "subcategories": [
+        {
+          "name": "Accessories",
+          "products": [
+            {
+              "id": "1000",
+              "code": "f230fh0g3",
+              "name": "Monday Haircare Volume \n Conditioner For Thin Hair 350 mL",
+              "description": "Suitable for thin and lifeless hair \n Contains ginger root extract and panthenol \n Dermatologically tested",
+              "image": "B1.webp",
+              "price": 65,
+              "date": "09/13/2022",
+              "quantity": 24,
+              "inventoryStatus": "INSTOCK",
+              "rating": 5,
+              "ProductDetails": "View More"
+            },
+            {
+              "id": "1001",
+              "code": "nvklal433",
+              "name": "Isdin Fotoprotector Hydro Lotion SPF50+ 200 mL\n",
+              "image": "B2.webp",
+              "price": 72,
+              "date": "09/12/2022",
+              "quantity": 61,
+              "inventoryStatus": "OUTOFSTOCK",
+              "rating": 4,
+              "ProductDetails": "View More",
+              "description": "Isdin Fotoprotector Hydro Lotion with double action that protects and oxygenates your skin. Suitable for sensitive skin. Hypoallergenic and alcohol free water resistant.\n"
+            },
+            {
+              "id": "1002",
+              "code": "nvklal433",
+              "name": "Nivea Care with SPF15 Fairness Cream 200 mL\n",
+              "image": "B3.webp",
+              "price": 72,
+              "date": "09/12/2022",
+              "quantity": 61,
+              "inventoryStatus": "OUTOFSTOCK",
+              "rating": 4,
+              "ProductDetails": "View More",
+              "description": "With SPF15\nWithout greasy feeling\nFairness skin for skin tone protection\nFor Face, Body and Hands"
+            }
+          ]
+        },
+        {
+          "name": "Body Care",
+          "products": [
+            {
+              "id": "1000",
+              "code": "f230fh0g3",
+              "name": "Oud Hand and Body Wash Hareemi Oud 500 mL\n",
+              "image": "BC1.webp",
+              "price": 65,
+              "date": "09/13/2022",
+              "quantity": 24,
+              "inventoryStatus": "INSTOCK",
+              "rating": 5,
+              "ProductDetails": "View More",
+              "description": "Hand and body wash\nSpecial formulated high-quality Oud fragrance used\nHareemi Oud"
+            },
+            {
+              "id": "1001",
+              "code": "nvklal433",
+              "name": "IDr. Organic Moroccan Argan Oil Skin Lotion 200 mL\n",
+              "image": "BC2.webp",
+              "price": 72,
+              "date": "09/12/2022",
+              "quantity": 61,
+              "inventoryStatus": "OUTOFSTOCK",
+              "rating": 4,
+              "ProductDetails": "View More",
+              "description": "Hydrating skin moisturizer\nIncredibly effective and fast absorbing skin therapy\nRich in EFAs, vitamin E and antioxidants"
+            },
+            {
+              "id": "1002",
+              "code": "nvklal433",
+              "name": "Vaseline Cocoa Radiant Body Lotion 400 mL\n",
+              "image": "BC3.webp",
+              "price": 72,
+              "date": "09/12/2022",
+              "quantity": 61,
+              "inventoryStatus": "OUTOFSTOCK",
+              "rating": 4,
+              "ProductDetails": "View More",
+              "description": "Made with 100% pure cocoa and shea butters\nContains microdroplets of Vaseline Jelly to lock in moisture\nNon-greasy formula"
+            }
+          ]
+        },
+        {
+          "name": "Cosmetics",
+          "products": [
+            {
+              "id": "1000",
+              "code": "f230fh0g3",
+              "name": "Mavala Creamy Mascara Black 10 mL\n",
+              "image": "C1.webp",
+              "price": 65,
+              "date": "09/13/2022",
+              "quantity": 24,
+              "inventoryStatus": "INSTOCK",
+              "rating": 5,
+              "ProductDetails": "View More",
+              "description": "Lengthens, separates and strengthens lashes\nProfessional curved brush\nWith silk protein"
+            },
+            {
+              "id": "1001",
+              "code": "nvklal433",
+              "name": "Kiss Haute Couture Eyelashes Wink\n",
+              "image": "C2.webp",
+              "price": 72,
+              "date": "09/12/2022",
+              "quantity": 61,
+              "inventoryStatus": "OUTOFSTOCK",
+              "rating": 4,
+              "ProductDetails": "View More",
+              "description": "Kiss Haute Couture Eyelashes Wink provide the easiest way to apply lashes with Aloe's soothing properties."
+            },
+            {
+              "id": "1002",
+              "code": "nvklal433",
+              "name": "Pharmaceris Mattifying Fluid Foundation 02 Natural 30 mL\n",
+              "image": "C3.webp",
+              "price": 72,
+              "date": "09/12/2022",
+              "quantity": 61,
+              "inventoryStatus": "OUTOFSTOCK",
+              "rating": 4,
+              "ProductDetails": "View More",
+              "description": "|High tolerance and efficacy |Clinically and dermatologically tested |96% makes the skin smoother |92% leaves a matte finish"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Home Care Equipments",
+      "subcategories": [
+        {
+          "name": "Bath & Shower Support",
+          "products": [
+            {
+              "id": "6001",
+              "name": "Dayang Commode Chair With Wheels & Without Seat DY02696(5)",
+              "price": 69.99,
+              "image": "BS1.webp",
+              "date": "09/10/2022",
+              "quantity": 25,
+              "inventoryStatus": "INSTOCK",
+              "rating": 5,
+              "ProductDetails": "View More",
+              "description": "Dayang Commode Chair With Wheels & Without Seat�may be used where the use of or access to a conventional toilet is no longer possible due to patient physical limitations. This commode chair is made of a chrome plated steel frame,�3\" castor, rear one with pedal brake and with adjustable height. It makes going to toilet easier for senior and disabled. The commode chair is strong enough with the weight capacity 100kg due to the steel construction. The commode chair could be folded and put in the toilet or room corner. The folding width is only 15cm, covering little space."
+            },
+            {
+              "id": "6002",
+              "name": "Dayang Shower Chair With Back Rest DY03799L\n",
+              "price": 39.99,
+              "image": "BS2.webp",
+              "date": "09/10/2022",
+              "quantity": 25,
+              "inventoryStatus": "INSTOCK",
+              "rating": 5,
+              "ProductDetails": "View More",
+              "description": "Dayang Shower Chair With Back Rest has been designed for maximum comfort and easy handling when bathing. The sturdy seat is designed to be curved for user�s comfort and equipped with drainage holes to channel the flow of excess water. This model's length is longer than other models, made of 3 panels. The user could half lay down in the chair for better bathing. Shower Chair could be applied by the users who are weak in leg or lack of strength in body. The seat is made of PVC, easy to clean. The frame is made of aluminium, easy to transfer."
+            },
+            {
+              "id": "6002",
+              "name": "Wolaid Folding Commode Chair JL894\n",
+              "price": 79.99,
+              "image": "BS2.webp",
+              "date": "09/10/2022",
+              "quantity": 25,
+              "inventoryStatus": "INSTOCK",
+              "rating": 5,
+              "ProductDetails": "View More",
+              "description": "Wolaid Walking Stick Tetrapod 4-Legged Frame JL931L is lightweight & made of sturdy extruded aluminum tube with anodized finish. The durable steel large quad base provides additional support. The tube has a spring lock pin for adjusting handle height from 28.74”-37.60” (10 levels). Specifications: overall height 73-96 cm, dia. of upper tube 22mm, dia. of tripod base 19 mm, thick. of tube wall 1.2 mm, net weight 0.7kg.."
+            }
+          ]
+        },
+        {
+          "name": "General",
+          "products": [
+            {
+              "id": "7001",
+              "name": "MacBook Pro",
+              "price": 1299.99,
+              "description": "High-performance laptop for professionals",
+              "image": "macbook-pro.jpg",
+              "date": "09/10/2022",
+              "quantity": 25,
+              "inventoryStatus": "INSTOCK",
+              "rating": 5,
+              "ProductDetails": "View More"
+            },
+            {
+              "id": "7002",
+              "name": "Dell XPS 15",
+              "price": 1099.99,
+              "description": "Premium Windows laptop with excellent build quality",
+              "image": "dell-xps-15.jpg",
+              "date": "09/10/2022",
+              "quantity": 25,
+              "inventoryStatus": "INSTOCK",
+              "rating": 5,
+              "ProductDetails": "View More"
+            }
+          ]
+        } ,
+        {
+          "name": "Health Monitors",
+          "products": [
+            {
+              "id": "7001",
+              "name": "MacBook Pro",
+              "price": 1299.99,
+              "description": "High-performance laptop for professionals",
+              "image": "macbook-pro.jpg",
+              "date": "09/10/2022",
+              "quantity": 25,
+              "inventoryStatus": "INSTOCK",
+              "rating": 5,
+              "ProductDetails": "View More"
+            },
+            {
+              "id": "7002",
+              "name": "Dell XPS 15",
+              "price": 1099.99,
+              "description": "Premium Windows laptop with excellent build quality",
+              "image": "dell-xps-15.jpg",
+              "date": "09/10/2022",
+              "quantity": 25,
+              "inventoryStatus": "INSTOCK",
+              "rating": 5,
+              "ProductDetails": "View More"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Nutrition",
+      "subcategories": [
+        {
+          "name": "Smartphones",
+          "products": [
+            {
+              "id": "6001",
+              "name": "iPhone 13",
+              "price": 699.99,
+              "description": "Latest iPhone model with advanced features",
+              "image": "iphone-13.jpg",
+              "date": "09/10/2022",
+              "quantity": 25,
+              "inventoryStatus": "INSTOCK",
+              "rating": 5,
+              "ProductDetails": "View More"
+            },
+            {
+              "id": "6002",
+              "name": "Samsung Galaxy S22",
+              "price": 799.99,
+              "description": "Powerful Android smartphone with stunning display",
+              "image": "samsung-galaxy-s22.jpg",
+              "date": "09/10/2022",
+              "quantity": 25,
+              "inventoryStatus": "INSTOCK",
+              "rating": 5,
+              "ProductDetails": "View More"
+            }
+          ]
+        },
+        {
+          "name": "Laptops",
+          "products": [
+            {
+              "id": "7001",
+              "name": "MacBook Pro",
+              "price": 1299.99,
+              "description": "High-performance laptop for professionals",
+              "image": "macbook-pro.jpg",
+              "date": "09/10/2022",
+              "quantity": 25,
+              "inventoryStatus": "INSTOCK",
+              "rating": 5,
+              "ProductDetails": "View More"
+            },
+            {
+              "id": "7002",
+              "name": "Dell XPS 15",
+              "price": 1099.99,
+              "description": "Premium Windows laptop with excellent build quality",
+              "image": "dell-xps-15.jpg",
+              "date": "09/10/2022",
+              "quantity": 25,
+              "inventoryStatus": "INSTOCK",
+              "rating": 5,
+              "ProductDetails": "View More"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "LifeStyle",
+      "subcategories": [
+        {
+          "name": "Accessories",
+          "products": [
+            {
+              "id": "1000",
+              "code": "f230fh0g3",
+              "name": "Bamboo Watch",
+              "description": "Elegant necklace to complement your look",
+              "image": "bamboo-watch.jpg",
+              "price": 65,
+              "date": "09/13/2022",
+              "quantity": 24,
+              "inventoryStatus": "INSTOCK",
+              "rating": 5,
+              "ProductDetails": "View More"
+            },
+            {
+              "id": "1001",
+              "code": "nvklal433",
+              "name": "bracelet",
+              "image": "bracelet.jpg",
+              "price": 72,
+              "date": "09/12/2022",
+              "quantity": 61,
+              "inventoryStatus": "OUTOFSTOCK",
+              "rating": 4,
+              "ProductDetails": "View More",
+              "description": "Elegant necklace to complement your look"
+            }
+          ]
+        },
+        {
+          "name": "Body Care",
+          "products": [
+            {
+              "id": "1002",
+              "code": "zz21cz3c1",
+              "name": "brown-purse",
+              "image": "brown-purse.jpg",
+              "price": 79,
+              "date": "09/11/2022",
+              "quantity": 2,
+              "inventoryStatus": "OUTOFSTOCK",
+              "rating": 3,
+              "ProductDetails": "View More",
+              "description": "Moisturizing body lotion for smooth skin"
+            },
+            {
+              "id": "1003",
+              "code": "244wgerg2",
+              "name": "blue-t-shirt",
+              "image": "blue-t-shirt.jpg",
+              "price": 29,
+              "date": "09/10/2022",
+              "quantity": 25,
+              "inventoryStatus": "INSTOCK",
+              "rating": 5,
+              "ProductDetails": "View More",
+              "description": "Refreshing shower gel with a pleasant scent"
+            }
+          ]
+        },
+        {
+          "name": "Cosmetics",
+          "products": [
+            {
+              "id": "1004",
+              "code": "244wgerg2",
+              "name": "game-controller",
+              "image": "game-controller.jpg",
+              "price": 29,
+              "date": "09/10/2022",
+              "quantity": 25,
+              "inventoryStatus": "INSTOCK",
+              "rating": 5,
+              "ProductDetails": "View More",
+              "description": "Vibrant lipstick for a bold look"
+            },
+            {
+              "id": "1005",
+              "code": "244wgerg2",
+              "name": "foundation",
+              "image": "foundation.jpg",
+              "price": 25,
+              "date": "09/10/2022",
+              "quantity": 18,
+              "inventoryStatus": "INSTOCK",
+              "rating": 4,
+              "ProductDetails": "View More",
+              "description": "Natural-looking foundation for a flawless complexion"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Medical Essentials",
+      "subcategories": [
+        {
+          "name": "Smartphones",
+          "products": [
+            {
+              "id": "6001",
+              "name": "iPhone 13",
+              "price": 699.99,
+              "description": "Latest iPhone model with advanced features",
+              "image": "iphone-13.jpg",
+              "date": "09/10/2022",
+              "quantity": 25,
+              "inventoryStatus": "INSTOCK",
+              "rating": 5,
+              "ProductDetails": "View More"
+            },
+            {
+              "id": "6002",
+              "name": "Samsung Galaxy S22",
+              "price": 799.99,
+              "description": "Powerful Android smartphone with stunning display",
+              "image": "samsung-galaxy-s22.jpg",
+              "date": "09/10/2022",
+              "quantity": 25,
+              "inventoryStatus": "INSTOCK",
+              "rating": 5,
+              "ProductDetails": "View More"
+            }
+          ]
+        },
+        {
+          "name": "Laptops",
+          "products": [
+            {
+              "id": "7001",
+              "name": "MacBook Pro",
+              "price": 1299.99,
+              "description": "High-performance laptop for professionals",
+              "image": "macbook-pro.jpg",
+              "date": "09/10/2022",
+              "quantity": 25,
+              "inventoryStatus": "INSTOCK",
+              "rating": 5,
+              "ProductDetails": "View More"
+            },
+            {
+              "id": "7002",
+              "name": "Dell XPS 15",
+              "price": 1099.99,
+              "description": "Premium Windows laptop with excellent build quality",
+              "image": "dell-xps-15.jpg",
+              "date": "09/10/2022",
+              "quantity": 25,
+              "inventoryStatus": "INSTOCK",
+              "rating": 5,
+              "ProductDetails": "View More"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Mom & Baby Care",
+      "subcategories": [
+        {
+          "name": "Smartphones",
+          "products": [
+            {
+              "id": "6001",
+              "name": "iPhone 13",
+              "price": 699.99,
+              "description": "Latest iPhone model with advanced features",
+              "image": "iphone-13.jpg",
+              "date": "09/10/2022",
+              "quantity": 25,
+              "inventoryStatus": "INSTOCK",
+              "rating": 5,
+              "ProductDetails": "View More"
+            },
+            {
+              "id": "6002",
+              "name": "Samsung Galaxy S22",
+              "price": 799.99,
+              "description": "Powerful Android smartphone with stunning display",
+              "image": "samsung-galaxy-s22.jpg",
+              "date": "09/10/2022",
+              "quantity": 25,
+              "inventoryStatus": "INSTOCK",
+              "rating": 5,
+              "ProductDetails": "View More"
+            }
+          ]
+        },
+        {
+          "name": "Laptops",
+          "products": [
+            {
+              "id": "7001",
+              "name": "MacBook Pro",
+              "price": 1299.99,
+              "description": "High-performance laptop for professionals",
+              "image": "macbook-pro.jpg",
+              "date": "09/10/2022",
+              "quantity": 25,
+              "inventoryStatus": "INSTOCK",
+              "rating": 5,
+              "ProductDetails": "View More"
+            },
+            {
+              "id": "7002",
+              "name": "Dell XPS 15",
+              "price": 1099.99,
+              "description": "Premium Windows laptop with excellent build quality",
+              "image": "dell-xps-15.jpg",
+              "date": "09/10/2022",
+              "quantity": 25,
+              "inventoryStatus": "INSTOCK",
+              "rating": 5,
+              "ProductDetails": "View More"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Personal Care",
+      "subcategories": [
+        {
+          "name": "Smartphones",
+          "products": [
+            {
+              "id": "6001",
+              "name": "iPhone 13",
+              "price": 699.99,
+              "description": "Latest iPhone model with advanced features",
+              "image": "iphone-13.jpg",
+              "date": "09/10/2022",
+              "quantity": 25,
+              "inventoryStatus": "INSTOCK",
+              "rating": 5,
+              "ProductDetails": "View More"
+            },
+            {
+              "id": "6002",
+              "name": "Samsung Galaxy S22",
+              "price": 799.99,
+              "description": "Powerful Android smartphone with stunning display",
+              "image": "samsung-galaxy-s22.jpg",
+              "date": "09/10/2022",
+              "quantity": 25,
+              "inventoryStatus": "INSTOCK",
+              "rating": 5,
+              "ProductDetails": "View More"
+            }
+          ]
+        },
+        {
+          "name": "Laptops",
+          "products": [
+            {
+              "id": "7001",
+              "name": "MacBook Pro",
+              "price": 1299.99,
+              "description": "High-performance laptop for professionals",
+              "image": "macbook-pro.jpg",
+              "date": "09/10/2022",
+              "quantity": 25,
+              "inventoryStatus": "INSTOCK",
+              "rating": 5,
+              "ProductDetails": "View More"
+            },
+            {
+              "id": "7002",
+              "name": "Dell XPS 15",
+              "price": 1099.99,
+              "description": "Premium Windows laptop with excellent build quality",
+              "image": "dell-xps-15.jpg",
+              "date": "09/10/2022",
+              "quantity": 25,
+              "inventoryStatus": "INSTOCK",
+              "rating": 5,
+              "ProductDetails": "View More"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

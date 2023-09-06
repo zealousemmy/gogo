@@ -1,0 +1,519 @@
+{
+  "product_category": [
+    {
+      "category": "Beauty & Health",
+      "sub_categories": [
+        {
+          "sub_category": "Cream",
+          "products": [
+            {
+              "id": 101,
+              "category_id": "Cream",
+              "brand_id": 3,
+              "product_images": "B2.webp",
+              "translations": {
+                "en": {
+                  "title": "NeoCell Fotoprotector Hydro Lotion SPF50+ 200 m",
+                  "description": "NeoCell Fotoprotector Hydro Lotion with double action that protects and oxygenates your skin. Suitable for sensitive skin. Hypoallergenic and alcohol free water resistant.\n"
+                },
+                "ar": { }
+              },
+              "attributes": {
+                "Color": "Fair",
+                "Storage": "256GB",
+                "Display": "6.2 inches"
+              }
+            },
+            {
+              "id": 10,
+              "category_id": "Cream",
+              "brand_id": 3,
+              "product_images": "B1.webp",
+              "translations": {
+                "en": {
+                  "title": "Fotoprotector Hydro Lotion SPF50+ 200 m",
+                  "description": " Fotoprotector Hydro Lotion with double action that protects and oxygenates your skin. Suitable for sensitive skin. Hypoallergenic and alcohol free water resistant.\n"
+                },
+                "ar": { }
+              },
+              "attributes": {
+                "Color": "Fair",
+                "Storage": "256GB",
+                "Display": "6.2 inches"
+              }
+            },
+            {
+              "id": 102,
+              "category_id": "Cream",
+              "brand_id": 3,
+              "product_images": "B3.webp",
+              "translations": {
+                "en": {
+                  "title": "Fotoprotector Hydro Lotion SPF50+ 200 m",
+                  "description": " Fotoprotector Hydro Lotion with double action that protects and oxygenates your skin. Suitable for sensitive skin. Hypoallergenic and alcohol free water resistant.\n"
+                },
+                "ar": { }
+              },
+              "attributes": {
+                "Color": "Fair",
+                "Storage": "256GB",
+                "Display": "6.2 inches"
+              }
+            },
+            {
+              "id": 103,
+              "category_id": "Cream",
+              "brand_id": 3,
+              "product_images": "B1.webp",
+              "translations": {
+                "en": {
+                  "title": "Fotoprotector Hydro Lotion SPF50+ 200 m",
+                  "description": " Fotoprotector Hydro Lotion with double action that protects and oxygenates your skin. Suitable for sensitive skin. Hypoallergenic and alcohol free water resistant.\n"
+                },
+                "ar": { }
+              },
+              "attributes": {
+                "Color": "Fair",
+                "Storage": "256GB",
+                "Display": "6.2 inches"
+              }
+            },
+            {
+              "id": 104,
+              "category_id": "Cream",
+              "brand_id": 3,
+              "product_images": "B3.webp",
+              "translations": {
+                "en": {
+                  "title": "Fotoprotector Hydro Lotion SPF50+ 200 m",
+                  "description": " Fotoprotector Hydro Lotion with double action that protects and oxygenates your skin. Suitable for sensitive skin. Hypoallergenic and alcohol free water resistant.\n"
+                },
+                "ar": { }
+              },
+              "attributes": {
+                "Color": "Fair",
+                "Storage": "256GB",
+                "Display": "6.2 inches"
+              }
+            }
+          ]
+        },
+        {
+          "sub_category": "Body_care",
+          "products": [
+            {
+              "id": 101,
+              "category_id": "Body_care",
+              "brand_id": 4,
+              "product_images": "BC1.webp",
+              "translations": {
+                "en": {
+                  "title": "Oud Hand and Body Wash Hareemi Oud 500 mL\n",
+                  "description": " Fotoprotector Hydro Lotion with double action that protects and oxygenates your skin. Suitable for sensitive skin. Hypoallergenic and alcohol free water resistant.\n"
+                },
+                "ar": { }
+              },
+              "attributes": {
+                "Color": "Fair",
+                "Storage": "256GB",
+                "Display": "6.2 inches"
+              }
+            },
+            {
+              "id": 101,
+              "category_id": "Body_care",
+              "brand_id": 4,
+              "product_images": "BC2.webp",
+              "translations": {
+                "en": {
+                  "title": "IDr. Organic Moroccan Argan Oil Skin Lotion 200 mL\n",
+                  "description": " Fotoprotector Hydro Lotion with double action that protects and oxygenates your skin. Suitable for sensitive skin. Hypoallergenic and alcohol free water resistant.\n"
+                },
+                "ar": { }
+              },
+              "attributes": {
+                "Color": "Fair",
+                "Storage": "256GB",
+                "Display": "6.2 inches"
+              }
+            },
+            {
+              "id": 101,
+              "category_id": "Body_care",
+              "brand_id": 4,
+              "product_images": "BC3.webp",
+              "translations": {
+                "en": {
+                  "title": "Vaseline Cocoa Radiant Body Lotion 400 mL\n",
+                  "description": " Fotoprotector Hydro Lotion with double action that protects and oxygenates your skin. Suitable for sensitive skin. Hypoallergenic and alcohol free water resistant.\n"
+                },
+                "ar": { }
+              },
+              "attributes": {
+                "Color": "Fair",
+                "Storage": "256GB",
+                "Display": "6.2 inches"
+              }
+            },
+            {
+              "id": 101,
+              "category_id": "Body_care",
+              "brand_id": 4,
+              "product_images": "BC2.webp",
+              "translations": {
+                "en": {
+                  "title": "IDr. Organic Moroccan Argan Oil Skin Lotion 200 mL\n",
+                  "description": " Fotoprotector Hydro Lotion with double action that protects and oxygenates your skin. Suitable for sensitive skin. Hypoallergenic and alcohol free water resistant.\n"
+                },
+                "ar": { }
+              },
+              "attributes": {
+                "Color": "Fair",
+                "Storage": "256GB",
+                "Display": "6.2 inches"
+              }
+            },
+            {
+              "id": 101,
+              "category_id": "Body_care",
+              "brand_id":4,
+              "product_images": "BC3.webp",
+              "translations": {
+                "en": {
+                  "title": "Vaseline Cocoa Radiant Body Lotion 400 mL\n",
+                  "description": " Fotoprotector Hydro Lotion with double action that protects and oxygenates your skin. Suitable for sensitive skin. Hypoallergenic and alcohol free water resistant.\n"
+                },
+                "ar": { }
+              },
+              "attributes": {
+                "Color": "Fair",
+                "Storage": "256GB",
+                "Display": "6.2 inches"
+              }
+            }
+          ]
+        }
+      ]
+    },
+
+    {
+      "category": "Clothing",
+      "sub_categories": [
+        {
+          "sub_category": "Men's",
+          "products": [
+
+            {
+              "id": 106,
+              "category_id": "Men's",
+              "brand_id": "Nike",
+              "product_images": "BC1.webp",
+              "translations": {
+                "en": {
+                  "title": "Nike Air Max 90",
+                  "description": "Stylish men's sneakers by Nike."
+                },
+                "ar": { }
+              },
+              "attributes": {
+                "Size": "L",
+                "Color": "green"
+              }
+            },
+
+            {
+              "id": 107,
+              "category_id": "Men's",
+              "brand_id": "Adidas",
+              "product_images": "BC1.webp",
+              "translations": {
+                "en": {
+                  "title": "Adidas Originals Hoodie",
+                  "description": "Comfortable hoodie for casual wear"
+                },
+                "ar": { }
+              },
+              "attributes": {
+                "Size": "L",
+                "Color": "Gray"
+              }
+            },
+            {
+              "id": 108,
+              "category_id": "Men's",
+              "brand_id": "Nike",
+              "product_images": "BC1.webp",
+              "translations": {
+                "en": {
+                  "title": "Nike Air Max 90",
+                  "description": "Stylish men's sneakers by Nike."
+                },
+                "ar": { }
+              },
+              "attributes": {
+                "Size": "L",
+                "Color": "green"
+              }
+            },
+
+            {
+              "id": 109,
+              "category_id": "Men's",
+              "brand_id": "Adidas",
+              "product_images": "BC1.webp",
+              "translations": {
+                "en": {
+                  "title": "Adidas Originals Hoodie",
+                  "description": "Comfortable hoodie for casual wear"
+                },
+                "ar": { }
+              },
+              "attributes": {
+                "Size": "L",
+                "Color": "Gray"
+              }
+            }
+
+          ]
+        },
+        {
+          "sub_category": "Women's",
+          "products": [
+            {
+              "id": 122,
+              "category_id": "Women's",
+              "brand_id": "Zara",
+              "product_images": "BC3.webp",
+              "translations": {
+                "en": {
+                  "title": "Adidas Originals Hoodie",
+                  "description": "Elegant floral dress for women."
+                },
+                "ar": { }
+              },
+              "attributes": {
+                "Size": "M",
+                "Color": "Blue/White"
+              }
+            },
+            {
+              "id": 132,
+              "category_id": "Women's",
+              "brand_id": "Zara",
+              "product_images": "BC3.webp",
+              "translations": {
+                "en": {
+                  "title": "Adidas Originals Hoodie",
+                  "description": "Elegant floral dress for women."
+                },
+                "ar": { }
+              },
+              "attributes": {
+                "Size": "M",
+                "Color": "Blue/White"
+              }
+            },
+
+            {
+              "id": 412,
+              "brand": "H&M",
+              "name": "H&M Skinny Jeans",
+              "price": 29.99,
+              "description": "Classic skinny jeans for women.",
+              "product_images": "https://example.com/skinnyjeans.jpg",
+              "attributes": {
+                "Size": "S",
+                "Color": "Black"
+              }
+            },
+            {
+              "id": 402,
+              "brand": "H&M",
+              "name": "H&M Skinny Jeans",
+              "price": 29.99,
+              "description": "Classic skinny jeans for women.",
+              "image_url": "https://example.com/skinnyjeans.jpg",
+              "attributes": {
+                "Size": "S",
+                "Color": "Black"
+              }
+            }
+
+          ]
+        }
+
+      ]
+    }
+
+  ],
+
+  "products": [
+    {
+      "id": 433,
+      "brand_id": "2",
+      "name": "H&M Skinny Jeans",
+      "price": 29.99,
+      "description": "Classic skinny jeans for women.",
+      "image_url": "https://example.com/skinnyjeans.jpg",
+      "attributes": {
+        "Size": "S",
+        "Color": "Black"
+      }
+    },
+    {
+      "id": 141,
+      "category_id": "1",
+      "brand_id": "Nivea",
+      "product_images": "B1.webp",
+      "translations": {
+        "en": {
+          "title": "Fotoprotector Hydro Lotion SPF50+ 200 m",
+          "description": " Fotoprotector Hydro Lotion with double action that protects and oxygenates your skin. Suitable for sensitive skin. Hypoallergenic and alcohol free water resistant.\n"
+        },
+        "ar": { }
+      },
+      "attributes": {
+        "Color": "Fair",
+        "Storage": "256GB",
+        "Display": "6.2 inches"
+      }
+    },
+    {
+      "id": 161,
+      "category_id": "Cream",
+      "brand_id": "3",
+      "product_images": "B3.webp",
+      "translations": {
+        "en": {
+          "title": "Fotoprotector Hydro Lotion SPF50+ 200 m",
+          "description": " Fotoprotector Hydro Lotion with double action that protects and oxygenates your skin. Suitable for sensitive skin. Hypoallergenic and alcohol free water resistant.\n"
+        },
+        "ar": { }
+      },
+      "attributes": {
+        "Color": "Fair",
+        "Storage": "256GB",
+        "Display": "6.2 inches"
+      }
+    },
+    {
+      "id": 162,
+      "category_id": "Men's",
+      "brand_id": "1",
+      "product_images": "BC1.webp",
+      "translations": {
+        "en": {
+          "title": "Adidas Originals Hoodie",
+          "description": "Comfortable hoodie for casual wear"
+        },
+        "ar": { }
+      },
+      "attributes": {
+        "Size": "L",
+        "Color": "Gray"
+      }
+    }
+  ],
+
+  "brands": [
+    {
+      "id": 1,
+      "slug": "Nike",
+      "logo_url": null,
+      "translations": {
+        "en": {
+          "title": "Nike",
+          "description_html": null
+        }
+      }
+    },
+    {
+      "id": 2,
+      "slug": "Adidas",
+      "logo_url": null,
+      "translations": {
+        "en": {
+          "title": "Adidas",
+          "description_html": null
+        }
+      }
+    },
+    {
+      "id": 3,
+      "slug": "Nivea",
+      "logo_url": null,
+      "translations": {
+        "en": {
+          "title": "Nivea",
+          "description_html": null
+        }
+      }
+    },
+    {
+      "id": 4,
+      "slug": "Glovo",
+      "logo_url": null,
+      "translations": {
+        "en": {
+          "title": "Glovo",
+          "description_html": null
+        }
+      }
+    },
+    {
+      "id": 5,
+      "slug": "Zara",
+      "logo_url": null,
+      "translations": {
+        "en": {
+          "title": "Zara",
+          "description_html": null
+        }
+      }
+    },
+    {
+      "id": 6,
+      "slug": "H&M",
+      "logo_url": null,
+      "translations": {
+        "en": {
+          "title": "H&M",
+          "description_html": null
+        }
+      }
+    }
+  ],
+
+  "attributes": [
+    {
+      "id": 1,
+      "name": "Color"
+    },
+    {
+      "id": 2,
+      "name": "Size"
+    },
+    {
+      "id": 3,
+      "name": "Processor"
+    }
+
+  ],
+
+  "variant_groups": [
+    {
+      "id": 1,
+      "name": "Variant Group 1",
+      "variants": [
+        {
+          "id": 1001,
+          "name": "Variant A"
+        },
+        {
+          "id": 1002,
+          "name": "Variant B"
+        }
+      ]
+    }
+  ]
+}
