@@ -131,7 +131,7 @@ export default function NewCreateCategory() {
             <form>
                 <div>
                     <div className="mb-3 flex justify-content-end" style={{}}>
-                        <button onClick={handleShowAdd}>+</button>
+                        <button onClick={handleShowAdd}>add category</button>
                     </div>
                     {show === true && (
                         <CascadeSelect
